@@ -1,16 +1,8 @@
-# final-project-collidingworlds
+
 
 <h1>Project Title - BUDDY</h1>
 
-<details>
-<summary>Team Memebers</summary>
-<ul>
-<li>Ramya Devie Saravana bhava - 002770163</li>
-<li>Disha Sunil Patil - 002768900</li>
-<li>Jiale Lyu - 002722692</li>
-<li>Zhifei Li - 002708724</li>
-</ul>
-</details>
+
 
 <details>
 <summary>Project Description</summary>
